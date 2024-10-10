@@ -10,8 +10,13 @@ nanguo的个人博客
 
 ### 最新
 
+* [kitty终端安装和配置](https://nanguomm.top/articles/2024/10/10/1728490507178.html)
+* [maim安装与配置](https://nanguomm.top/articles/2024/10/09/1728489517372.html)
+* [thinkfan安装与配置](https://nanguomm.top/articles/2024/10/09/1728481864100.html)
+* [rsg安装和配置](https://nanguomm.top/articles/2024/10/09/1728476037201.html)
+* [redshift安装和配置](https://nanguomm.top/articles/2024/10/09/1728473329659.html)
+* [vim设置](https://nanguomm.top/articles/2024/10/09/1728471627388.html)
 * [solo博客搭建全过程](https://nanguomm.top/articles/2024/10/07/1728287144528.html)
-* [世界，你好！](https://nanguomm.top/hello-solo)
 
 
 
