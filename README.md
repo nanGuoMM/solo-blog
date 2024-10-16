@@ -10,6 +10,7 @@ nanguo的个人博客
 
 ### 最新
 
+* [i3wm开发环境搭建](https://nanguomm.top/articles/2024/10/15/1729004308927.html)
 * [maim](https://nanguomm.top/articles/2024/10/09/1728489517372.html)
 * [thinkfan](https://nanguomm.top/articles/2024/10/09/1728481864100.html)
 * [rsg](https://nanguomm.top/articles/2024/10/09/1728476037201.html)
